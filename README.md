@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ashirvadstva
-- 👀 I’m interested in Data Science
+- 👀 I’m an aspiring Data Analyst
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on website designing
 - 📫 How to reach me ash18gt@gmail.com
 
 <!---
