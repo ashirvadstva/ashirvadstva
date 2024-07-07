@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashirvadstva
 - 👀 I’m an aspiring Data Analyst
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning PowerBI
 - 📫 How to reach me ash18gt@gmail.com
 
 <!---
