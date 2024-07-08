@@ -8,9 +8,10 @@
 - ⚡ Fun fact **I can make your ❤️ laugh**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">  
 <a href="https://linkedin.com/in/ashirvadstva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashirvadstva" height="30" width="40" /></a>
 <a href="https://instagram.com/ashirvadstva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashirvadstva" height="30" width="40" /></a>
+<a align="left"> <a href="https://www.cloudskillsboost.google/public_profiles/329a487b-1fec-4629-acbb-39d9e872620a" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="https://www.cloudskillsboost.google/public_profiles/329a487b-1fec-4629-acbb-39d9e872620a" height="35" width="35" /></a>  
 </p>
 
 <h3 align="left">Tech Stack:</h3>
